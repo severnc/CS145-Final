@@ -20,8 +20,11 @@ li a{
 	text-decoration: none;
 	color: #DEC3AB;
 	font-family: 'Amatic SC', cursive;
-	
+	font-size: 25px;
+	letter-spacing: 2px;
 }
+a:hover{
+background-color: #BA4409;}
 
 .footer {
   position: static;
