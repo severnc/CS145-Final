@@ -22,13 +22,22 @@ body{
 	letter-spacing: 2px;
 	color: #DEC3AB;
 }
+.menu_section h2 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 15px;
+	letter-spacing: 2px;
+	color: #DEC3AB;
+}
 .menu_item {
 	margin: 0px;
 	position: relative;
 	font-family: 'Josefin Slab', serif;
+	color: #262626;
 }
 .menu_item h4 {
 	margin-bottom: 0px;
+	font-size: 20px;
+	letter-spacing: 2px;
 }
 .price {
 	display: block;
@@ -36,7 +45,6 @@ body{
 	position: absolute;
 	bottom: 0px;
 	right: 0;
-	font-weight: bold;
 }
 .description {
 	margin-top: 5px;
@@ -50,6 +58,9 @@ hr {
     border-top: 1px dotted black;
     margin-top: -20px;
 			}
-
-  h1{ font-family: 'Josefin Slab', serif;}
-}
+h1{
+	font-style: bold;
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;}
