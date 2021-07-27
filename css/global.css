@@ -35,13 +35,16 @@ background-color: #BA4409;}
 
 .footer {
   position: static;
-  padding: 15px;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-image: url('../images/background.png');
+  padding: 8px;
   color: #DEC3AB;
-  margin-top: 5%;
   font-family: 'Amatic SC', cursive;
-  font-size: 15px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  margin: auto;
+}
+.rightfooter h1 {
+	float: left;
+}
+.leftfooter h1 {
+	float: right;
 }
