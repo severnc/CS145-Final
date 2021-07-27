@@ -1,0 +1,21 @@
+
+#mainImage {
+	display: block;
+	margin-top: 10px;
+	width: 1000px;
+}
+
+#leftDiv {
+	margin-top: 10px;
+	float: left;
+	margin: auto;
+	width: 50%;
+}
+
+#rightDiv {
+	margin-top: 10px;
+	float: right;
+	margin: auto;
+	width: 650px;
+	font-family: 'Josefin Slab', serif;
+}
