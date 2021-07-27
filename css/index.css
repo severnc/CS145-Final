@@ -5,6 +5,14 @@
 	width: 1000px;
 }
 
+#words {
+	font-family: 'Josefin Slab', serif;
+	color: #DEC3AB;
+	vertical-align:middle;
+  	text-align: center;
+  	border: 3px solid #46592A;
+  	font-size: 20px;
+}
 #leftDiv {
 	margin-top: 10px;
 	float: left;
