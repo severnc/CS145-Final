@@ -31,7 +31,7 @@ li a{
 	letter-spacing: 2px;
 }
 a:hover{
-background-color: #46592A;}
+background-color: #BA4409;}
 
 .footer {
   position: static;
@@ -40,11 +40,11 @@ background-color: #46592A;}
   font-family: 'Amatic SC', cursive;
   font-size: 25px;
   letter-spacing: 2px;
-  margin: auto;
+  margin-right: 425px;
 }
 .rightfooter h1 {
 	float: left;
 }
-.leftfooter h1 {
+.leftfooter {
 	float: right;
 }

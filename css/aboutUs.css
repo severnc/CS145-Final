@@ -1,4 +1,11 @@
+
 body {
+	margin: 25px;
+}
+
+p{
+	font-family: 'Josefin Slab', serif;
+	color: #262626;
 }
 
 /*Left side of the about us page*/
@@ -6,8 +13,7 @@ body {
 .leftFloat {
 	display: block;
 	float: left;
-	width: 300px;
-	text-align: center;
+	width: 400px;
 }
 
 .leftFloat img {
@@ -15,8 +21,31 @@ body {
 	margin-top: 100px;
 }
 
-.leftFloat h2 {
-	margin-top: 15px;
+.leftFloat h1{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;
+}
+
+.leftFloat h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;
+	text-decoration: none;
+}
+a{
+	color: #DEC3AB;
+	text-decoration: none;}
+
+a:hover{
+	background-color: #BA4409;
+}
+	
+.leftFloat p{
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
 }
 
 /*Right side of the about us page*/
@@ -37,6 +66,24 @@ body {
 	clear: both;
 	width: 800px;
 	text-align: center;
-	padding-top: 100px;
+	padding-top: 50px;
 	line-height: 50px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #262626;
 }
+.categories {
+	display: block;
+	width: 1000px;
+}
+
+.categories p{
+	font-family: 'Josefin Slab', serif;
+	color: #262626;
+}
+.categories h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;}
