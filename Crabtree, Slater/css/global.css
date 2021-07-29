@@ -1,0 +1,54 @@
+body{
+	background-color: #8C795E;
+	max-width: 1000px;
+	margin-left: 30px;
+	}
+
+.headerLogo {
+	display: block;
+	margin-left: 30px;
+	margin-right: auto;
+	margin-top: 5%;
+	width: 35%;
+}
+
+ul {
+	background-image: url('../images/background.png');
+	background-color: #46592A;
+	padding: 8px;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+li a{
+	text-decoration: none;
+	color: #DEC3AB;
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+}
+a:hover{
+background-color: #46592A;}
+
+.pageTitle p{
+  	font-weight: 1000;
+	font-family: 'Amatic SC', cursive;
+	font-size: 35px;
+	letter-spacing: 2px;
+	color: #46592A;
+}
+
+.footer {
+  position: static;
+  padding: 8px;
+  color: #DEC3AB;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+  letter-spacing: 2px;
+  text-align: center;
+  vertical-align: center;
+  
+}

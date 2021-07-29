@@ -1,0 +1,94 @@
+
+body {
+	margin: 25px;
+}
+body h1{ 
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	letter-spacing: 2px;
+	color: #46592A;
+}
+p{
+	font-family: 'Josefin Slab', serif;
+	color: #262626;
+}
+
+/*Left side of the about us page*/
+
+.leftFloat {
+	display: block;
+	float: left;
+	width: 400px;
+}
+
+.leftFloat img {
+	width: 380px;
+	margin-top: 100px;
+}
+
+.leftFloat h1{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;
+}
+
+.leftFloat h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;
+	text-decoration: none;
+}
+a{
+	color: #DEC3AB;
+	text-decoration: none;}
+
+a:hover{
+	background-color: #BA4409;
+}
+	
+.leftFloat p{
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+}
+
+/*Right side of the about us page*/
+
+.rightFloat {
+	display: block;
+	float: right;
+	width: 600px;
+}
+
+.rightFloat img {
+	float: right;
+	width: 50%;
+	padding-right: 50px;
+}
+
+.rightFloat p {
+	clear: both;
+	width: 800px;
+	text-align: center;
+	padding-top: 50px;
+	line-height: 50px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #262626;
+}
+.categories {
+	display: block;
+	width: 1000px;
+}
+
+.categories p{
+	font-family: 'Josefin Slab', serif;
+	color: #262626;
+}
+.categories h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #DEC3AB;}
