@@ -1,5 +1,13 @@
 body{
-	}
+	max-width: 1000px;}
+
+body h1{ 
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	letter-spacing: 2px;
+	color: #46592A;
+}
+
 .headerLogo {
 	display: block;
 	margin-left: 30px;
@@ -7,18 +15,37 @@ body{
 	margin-top: 5%;
 	width: 35%;
 }
+#menusplash{
+	max-width: 1000px;
+	display: block;
+}
 .menu {
 	margin-bottom: 15px;
-	max-width: 1000px;
     margin: 0 auto;
 			}
 .menu_section {
 	margin-bottom: 5px;
 }
+
+#apps{	
+	max-width: 1000px;
+	display: block;
+}
+
+#pasta{	
+	max-width: 1000px;
+	display: block;
+}
+#dessert{	
+	max-width: 1000px;
+	display: block;
+}
+	
 .menu_section h3 {
 	font-style: bold;
 	font-family: 'Amatic SC', cursive;
-	font-size: 25px;
+	text-align: center;
+	font-size: 30px;
 	letter-spacing: 2px;
 	color: #DEC3AB;
 }
@@ -26,9 +53,15 @@ body{
 	margin: 0px;
 	position: relative;
 	font-family: 'Josefin Slab', serif;
+	color: #262626;
+	font-size: 18px;
+	letter-spacing: 0.1em
 }
 .menu_item h4 {
 	margin-bottom: 0px;
+	color: #262626;
+	font-size: 18px;
+	letter-spacing: 0.1em;
 }
 .price {
 	display: block;
@@ -37,6 +70,7 @@ body{
 	bottom: 0px;
 	right: 0;
 	font-weight: bold;
+	color: #262626;
 }
 .description {
 	margin-top: 5px;
@@ -44,12 +78,10 @@ body{
 	font-family: 'Josefin Slab', serif;
 	display: inline-block;
 	max-width: 50%;
+	color: #262626;
 }
 hr {
 	border: none;
     border-top: 1px dotted black;
     margin-top: -20px;
 			}
-
-  h1{ font-family: 'Josefin Slab', serif;}
-}

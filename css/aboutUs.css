@@ -2,7 +2,12 @@
 body {
 	margin: 25px;
 }
-
+body h1{ 
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	letter-spacing: 2px;
+	color: #46592A;
+}
 p{
 	font-family: 'Josefin Slab', serif;
 	color: #262626;
